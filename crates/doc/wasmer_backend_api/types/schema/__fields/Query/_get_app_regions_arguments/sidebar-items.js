@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["active","after","before","first","last","offset","supportsDatabases","supportsVolumes"]};

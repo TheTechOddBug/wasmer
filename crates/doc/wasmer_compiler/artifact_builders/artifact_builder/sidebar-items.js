@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["serialize_module"],"struct":["ArtifactBuild","ArtifactBuildFromArchive","ArtifactBuildFromArchiveCell","ModuleFromArchive"]};

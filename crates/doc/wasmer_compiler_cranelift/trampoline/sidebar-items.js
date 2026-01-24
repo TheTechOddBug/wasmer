@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["dynamic_function","function_call"],"struct":["FunctionBuilderContext"]};

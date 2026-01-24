@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["cur_srcloc","declare_locals","declare_wasm_parameters","parse_function_body","parse_local_decls"],"struct":["FuncTranslator"]};

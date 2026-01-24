@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasmer_cpu_features_add","wasmer_cpu_features_delete","wasmer_cpu_features_new","wasmer_target_delete","wasmer_target_new","wasmer_triple_delete","wasmer_triple_new","wasmer_triple_new_from_host"],"struct":["wasmer_cpu_features_t","wasmer_target_t","wasmer_triple_t"]};

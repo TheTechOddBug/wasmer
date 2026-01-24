@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["capture_store_snapshot","restore_store_snapshot"],"struct":["StoreSnapshot"]};

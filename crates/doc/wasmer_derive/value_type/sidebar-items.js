@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["check_repr","impl_value_type","zero_padding"]};

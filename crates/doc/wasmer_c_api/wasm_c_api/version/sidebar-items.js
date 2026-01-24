@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasmer_version","wasmer_version_major","wasmer_version_minor","wasmer_version_patch","wasmer_version_pre"]};

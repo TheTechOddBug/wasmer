@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["update_last_error","wasmer_last_error_length","wasmer_last_error_message"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["basePath","branch","clientMutationId","repoUrl","rootDir"]};

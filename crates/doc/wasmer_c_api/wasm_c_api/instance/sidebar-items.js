@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasm_instance_delete","wasm_instance_exports","wasm_instance_new"],"struct":["wasm_instance_t"]};

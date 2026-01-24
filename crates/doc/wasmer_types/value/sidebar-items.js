@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["partial_eq","primitives"],"trait":["ValueType"],"union":["RawValue"]};

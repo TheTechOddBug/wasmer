@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"static":["DEFAULT_WASMER_CLI_USER_AGENT"],"struct":["UserRegistry","WasmerEnv"]};

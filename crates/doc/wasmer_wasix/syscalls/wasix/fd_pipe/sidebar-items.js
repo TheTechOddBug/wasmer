@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["fd_pipe","fd_pipe_internal"],"static":["PIPE_NUMBER"]};

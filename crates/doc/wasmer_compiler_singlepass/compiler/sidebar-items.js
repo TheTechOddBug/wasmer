@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["SinglepassCompiler"],"trait":["IntoParIterIfRayon"]};

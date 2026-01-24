@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["VMExceptionRef","VMExtern","VMExternFunction","VMExternGlobal","VMExternMemory","VMExternRef","VMExternTable","VMExternTag","VMFuncRef","VMFunction","VMFunctionBody","VMFunctionCallback","VMFunctionEnvironment","VMGlobal","VMInstance","VMMemory","VMSharedMemory","VMTable","VMTag","VMTrampoline"],"macro":["define_vm_like"],"mod":["impls"]};

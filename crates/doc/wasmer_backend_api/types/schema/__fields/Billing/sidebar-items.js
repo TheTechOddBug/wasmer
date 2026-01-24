@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["_payment_connection_arguments","_payment_method_connection_arguments"],"struct":["__typename","paymentConnection","paymentMethodConnection","paymentMethods","payments","stripeCustomer","subscriptions"]};

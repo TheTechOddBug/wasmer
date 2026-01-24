@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ArchivedSymbol","Symbol","SymbolResolver"],"struct":["ArchivedModuleMetadata","ModuleMetadata","ModuleMetadataResolver","ModuleMetadataSymbolRegistry"],"trait":["SymbolRegistry"]};

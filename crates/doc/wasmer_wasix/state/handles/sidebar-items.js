@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FunctionLookupError","WasiModuleTreeHandles"],"mod":["global","thread_local"],"struct":["WasiModuleInstanceHandles"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasmer_features_bulk_memory","wasmer_features_delete","wasmer_features_memory64","wasmer_features_module_linking","wasmer_features_multi_memory","wasmer_features_multi_value","wasmer_features_new","wasmer_features_reference_types","wasmer_features_simd","wasmer_features_tail_call","wasmer_features_threads"],"struct":["wasmer_features_t"]};

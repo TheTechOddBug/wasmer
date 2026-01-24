@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MiddlewareInnerReader"],"struct":["MiddlewareBinaryReader","MiddlewareReaderState"],"trait":["FunctionMiddleware","ModuleMiddleware","ModuleMiddlewareChain"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["LIBWASMER_FILENAME"],"fn":["asset_path","c_asset_path","get_libwasmer_path","get_repo_root_path","get_wasmer_dir","get_wasmer_path","wasmer_include_path","wasmer_target_path","wasmer_target_path_2"]};

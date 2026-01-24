@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MeteringPoints"],"fn":["get_remaining_points","is_accounting","set_remaining_points"],"struct":["FunctionMetering","Metering","MeteringGlobalIndexes"]};

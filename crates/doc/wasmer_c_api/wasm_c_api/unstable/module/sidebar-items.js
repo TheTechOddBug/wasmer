@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasmer_module_name","wasmer_module_new","wasmer_module_set_name"]};

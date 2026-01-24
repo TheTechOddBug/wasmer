@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["LogFileJournal","LogFileJournalRx","LogFileJournalTx","TxState"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["DuplexPipe","Pipe","PipeReceiver","PipeRx","PipeTx"],"type":["WasiBidirectionalSharedPipePair"]};

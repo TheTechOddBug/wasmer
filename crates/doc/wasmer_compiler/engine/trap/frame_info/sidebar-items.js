@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CompiledFunctionFrameInfoVariant","FrameInfosVariant","FunctionAddressMapInstructionVariant","FunctionAddressMapVariant","VecTrapInformationVariant"],"fn":["register"],"static":["FRAME_INFO"],"struct":["FunctionExtent","FunctionInfo","GlobalFrameInfo","GlobalFrameInfoRegistration","ModuleInfoFrameInfo"]};

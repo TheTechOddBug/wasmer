@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["read_owned","write_owned"],"struct":["OwnedRwLockReadGuard","OwnedRwLockWriteGuard"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":["impl_virtualfile_on_std_streams"],"struct":["Stderr","Stdin","Stdout"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FrameSerializationFormat","MessageRequest","MessageResponse","RequestType","ResponseType","Shutdown"],"struct":["SocketId"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["minimal_app_config","write_app_config"],"struct":["CmdAppCreate"]};

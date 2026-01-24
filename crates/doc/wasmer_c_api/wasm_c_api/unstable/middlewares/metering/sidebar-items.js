@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasmer_metering_as_middleware","wasmer_metering_delete","wasmer_metering_get_remaining_points","wasmer_metering_new","wasmer_metering_points_are_exhausted","wasmer_metering_set_remaining_points"],"struct":["wasmer_metering_t"],"type":["wasmer_metering_cost_function_t"]};

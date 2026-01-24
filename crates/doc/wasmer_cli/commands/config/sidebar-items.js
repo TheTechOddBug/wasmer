@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["GetOrSet","RetrievableConfigField","StorableConfigField"],"struct":["BoolString","Config","Flags","SetProxyUrl","SetRegistryToken","SetRegistryUrl","SetTelemetryEnabled","SetUpdateNotificationsEnabled"]};

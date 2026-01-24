@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ArchivedSecondaryMap","SecondaryMap","SecondaryMapResolver"]};

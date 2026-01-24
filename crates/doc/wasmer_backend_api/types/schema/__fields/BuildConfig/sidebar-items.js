@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["__typename","appName","branch","buildCmd","canDeployWithoutRepo","completionTimeInSeconds","installCmd","presetName","setupDb","startCmd"]};

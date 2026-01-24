@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["WasiStateCreationError"],"fn":["conv_env_vars","validate_mapped_dir_alias"],"struct":["PreopenDirBuilder","PreopenedDir","WasiEnvBuilder"],"type":["SetupFsFn"]};

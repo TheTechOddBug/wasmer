@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TaskStatus"],"struct":["OwnedTaskStatus","TaskJoinHandle","TaskTerminatedError"],"trait":["VirtualTaskHandle"]};

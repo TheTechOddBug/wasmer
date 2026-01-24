@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["after","before","categorySlug","first","frameworkSlug","highlighted","languageSlug","last","offset","sortBy"]};

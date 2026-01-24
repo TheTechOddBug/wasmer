@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasm_module_delete","wasm_module_deserialize","wasm_module_exports","wasm_module_imports","wasm_module_new","wasm_module_serialize","wasm_module_validate"],"struct":["wasm_module_t"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["compat_meta","get_modified","normalize"],"struct":["File","WebcVolumeFileSystem"]};

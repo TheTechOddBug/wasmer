@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["EpollCtl"],"struct":["EpollData","EpollEvent","EpollEventCtl","EpollType","Event","ExitCode","JoinStatus","Snapshot0Event","Snapshot0Subscription","StackSnapshot","Subscription","ThreadStart"],"type":["Longsize","TlKey","TlUser","TlVal"],"union":["EventUnion","JoinStatusUnion","Snapshot0SubscriptionUnion","SubscriptionUnion"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["NEWLINE"],"enum":["BinOrLib","GetBindingsResult","Template"],"fn":["construct_manifest","parse_cargo_toml"],"static":["NOTE","WASMER_TOML_NAME"],"struct":["Init","MiniCargoTomlPackage"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["HttpClientCapabilityV1","HttpRequest","HttpRequestOptions","HttpResponse"],"trait":["HttpClient"],"type":["DynHttpClient"]};

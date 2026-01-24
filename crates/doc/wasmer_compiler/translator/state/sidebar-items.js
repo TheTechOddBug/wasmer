@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SingleOrMultiValue","SingleOrMultiValueIterator"],"struct":["ModuleTranslationState"],"type":["WasmTypes"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ControlPlaneError"],"struct":["ControlPlaneConfig","MutableState","State","TaskCountGuard","WasiControlPlane","WasiControlPlaneHandle"]};

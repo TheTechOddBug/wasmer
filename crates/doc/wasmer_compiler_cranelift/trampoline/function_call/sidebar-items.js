@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["make_trampoline_function_call"]};

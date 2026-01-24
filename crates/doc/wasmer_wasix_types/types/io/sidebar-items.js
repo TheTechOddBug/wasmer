@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["__wasi_ciovec_t","__wasi_iovec_t"]};

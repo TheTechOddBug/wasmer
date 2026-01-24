@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["BaseTunables"],"trait":["Tunables"]};

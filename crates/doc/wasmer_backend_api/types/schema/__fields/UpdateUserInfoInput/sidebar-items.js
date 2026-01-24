@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["avatar","avatarUpload","bio","clientMutationId","fullName","github","location","twitter","userId","websiteUrl"]};

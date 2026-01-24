@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["build_funcrefs","get_memory_init_start","get_memory_slice","get_table_init_start","initialize_globals","initialize_memories","initialize_passive_elements","initialize_tables"],"mod":["allocator"],"struct":["Instance","VMInstance"]};

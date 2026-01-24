@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DirectoryMustBeEmpty","InodeResolution"],"struct":["FileSystem","FileSystemInner"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["after","appTemplates","apps","before","blogposts","first","last","namespaces","packages","query","users"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["wasm_config_set_features","wasmer_is_backend_available","wasmer_is_headless"]};
