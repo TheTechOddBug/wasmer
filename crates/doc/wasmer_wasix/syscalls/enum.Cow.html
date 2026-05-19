@@ -1327,7 +1327,7 @@ transferring a <a href="struct.Module.html" title="struct wasmer_wasix::syscalls
     task: impl <a class="trait" href="../runners/dproxy/hyper_proxy/trait.Future.html" title="trait wasmer_wasix::runners::dproxy::hyper_proxy::Future">Future</a>&lt;Output = A&gt; + <a class="trait" href="https://doc.rust-lang.org/1.92.0/core/marker/trait.Send.html" title="trait core::marker::Send">Send</a> + 'static,
 ) -&gt; <a class="enum" href="https://doc.rust-lang.org/1.92.0/core/result/enum.Result.html" title="enum core::result::Result">Result</a>&lt;A, <a class="struct" href="https://docs.rs/anyhow/1.0.102/anyhow/struct.Error.html" title="struct anyhow::Error">Error</a>&gt;<div class="where">where
     A: <a class="trait" href="https://doc.rust-lang.org/1.92.0/core/marker/trait.Send.html" title="trait core::marker::Send">Send</a> + 'static,</div></h4></section></summary><div class="docblock"><p>Runs the work in the background via the task managers shared background
-threads while blocking the current execution until it finishs</p>
+threads while blocking the current execution until it finishes</p>
 </div></details><section id="method.spawn_await" class="method trait-impl"><a class="src rightside" href="../../src/wasmer_wasix/runtime/task_manager/mod.rs.html#488-505">Source</a><a href="#method.spawn_await" class="anchor">§</a><h4 class="code-header">fn <a href="../runtime/task_manager/trait.VirtualTaskManagerExt.html#tymethod.spawn_await" class="fn">spawn_await</a>&lt;O, F&gt;(
     &amp;self,
     f: F,
